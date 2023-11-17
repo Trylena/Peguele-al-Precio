@@ -1,0 +1,6 @@
+Arroz,1002,1037
+Yerba mate,4546,4904
+Televisor Smart,2055,2439
+Aceite de cocina,3674,4783
+Mouse,1635,3603
+Silla de oficina,3174,4391
